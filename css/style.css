@@ -1,9 +1,19 @@
 h1{
-    color:blueviolet;
+    color:rgb(121, 201, 16);
     font-size: 2rem;
 }
 
 p {
-    color: tomato;
+    font-size: 2rem;
+    color: rgb(31, 240, 31);
     line-height: 1.6;
+}
+
+li {
+    font-size: larger;
+    color: yellowgreen;
+}
+
+body {
+    background-color: rgb(1, 55, 2);
 }
